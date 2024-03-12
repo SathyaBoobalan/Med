@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/firstaid4"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        >
+
+        <Button
+            android:id="@+id/p1Id"
+            android:text="Required items in kit"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+
+            />
+
+        <Button
+            android:id="@+id/p2Id"
+            android:text="Fever"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            />
+        <Button
+            android:id="@+id/p3Id"
+            android:text="CPR"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+        <Button
+            android:id="@+id/p4Id"
+            android:text="Burns and scraps"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+        <Button
+            android:id="@+id/p5Id"
+            android:text="Bleeding"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            />
+        <Button
+            android:id="@+id/p6Id"
+            android:text="Sprains"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+
+            />
+        <Button
+            android:id="@+id/p7Id"
+            android:text="Strains"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+
+            />
+        <Button
+            android:id="@+id/p8Id"
+            android:text="Animals bites and scraches"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+
+            />
+        <Button
+            android:id="@+id/p9Id"
+            android:text="Insect bites and strings"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+
+            />
+        <Button
+            android:id="@+id/p10Id"
+            android:text="Allergy"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/buttonred"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+
+            />
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

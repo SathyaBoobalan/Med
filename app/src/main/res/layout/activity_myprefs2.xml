@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/myprefbg"
+    tools:context=".Myprefs2">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/see7"
+            android:layout_width="325dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginBottom="525dp"
+            android:background="@drawable/buttonred"
+            android:text="Prescription"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/mypredfsB6"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="500dp"
+            android:background="@drawable/buttonred"
+            android:text="Add"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+        <TextView
+            android:id="@+id/fir6"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="800dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="100dp"
+            android:gravity="center"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textAllCaps="true"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/del6"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="220dp"
+            android:layout_marginBottom="500dp"
+            android:background="@drawable/buttonred"
+            android:text="Delete"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/mypredfsB5"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="500dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/buttonred"
+            android:text="Add"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+        <TextView
+            android:id="@+id/fir5"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="500dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="100dp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textAlignment="textStart"
+            android:textAllCaps="true"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/del5"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="220dp"
+            android:layout_marginTop="500dp"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/buttonred"
+            android:text="Delete"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/see5"
+            android:layout_width="325dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="625dp"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/buttonred"
+            android:text="Prescription"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/mypredfsB4"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/buttonred"
+            android:text="Add"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+        <TextView
+            android:id="@+id/fir4"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="100dp"
+            android:gravity="center"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textAllCaps="true"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/del4"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="220dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/buttonred"
+            android:text="Delete"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/see4"
+            android:layout_width="325dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="425dp"
+            android:layout_marginBottom="200dp"
+            android:background="@drawable/buttonred"
+            android:text="Prescription"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/mypredfsB3"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="200dp"
+            android:background="@drawable/buttonred"
+            android:text="Add"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+        <TextView
+            android:id="@+id/fir3"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="200dp"
+            android:gravity="center"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textAllCaps="true"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/del3"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="220dp"
+            android:layout_marginBottom="200dp"
+            android:background="@drawable/buttonred"
+            android:text="Delete"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/see3"
+            android:layout_width="325dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginBottom="225dp"
+            android:background="@drawable/buttonred"
+            android:text="Prescription"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/mypredfsB2"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="500dp"
+            android:background="@drawable/buttonred"
+            android:text="Add"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+        <TextView
+            android:id="@+id/fir2"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="500dp"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textAllCaps="true"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/del2"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="220dp"
+            android:layout_marginBottom="500dp"
+            android:background="@drawable/buttonred"
+            android:text="Delete"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/see2"
+            android:layout_width="325dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginBottom="525dp"
+            android:background="@drawable/buttonred"
+            android:text="Prescription"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/mypredfsB"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="800dp"
+            android:background="@drawable/buttonred"
+            android:text="Add"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_input_add" />
+
+        <Button
+            android:id="@+id/see"
+            android:layout_width="325dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginBottom="825dp"
+            android:background="@drawable/buttonred"
+            android:text="Prescription"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/fir"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="800dp"
+            android:gravity="center"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textAllCaps="true"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/del"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="220dp"
+            android:layout_marginBottom="800dp"
+            android:background="@drawable/buttonred"
+            android:text="Delete"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

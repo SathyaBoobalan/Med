@@ -1,0 +1,300 @@
+<resources>
+    <string name="app_name">Medi Care</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="first">
+</string>
+    <string name="req">
+       <b><u>Requirements in a kit\n\n</u></b>
+1.	Anticeptic and Alcohol cleansing wipes\n
+2.	Pain killer\n
+3.	Epinephrine\n
+4.	Swabs\n
+5.	Bandages\n
+6.	Hydrocortisone cream\n
+7.	Triangular Bandages\n
+8.	Cotten wool\n
+9.	Sterile gauze\n
+10.	Forceps\n
+11.	Disposable gloves\n
+        12. Safety pins\n
+        13. Ice packs\n
+        14. Antibiotic ointment \n
+15. ibuprofen\n
+16.	Scissors\n
+17.	tweezers\n
+
+    </string>
+    <string name="fev">
+<b>About fever\n\n</b>
+    \nFever is a rise in body temperature, usually caused by infection.
+    \nFevers caused by viral illnesses shouldn’t be treated with antibiotics, since these drugs have no effect against viruses.
+    \nHigh fever (about 41.5°C or more) is extremely dangerous and could trigger convulsions.
+    \nSeek medical attention if you are concerned, particularly about fever in a child.\n\n
+
+
+
+\nFever is a rise in body temperature above the normal temperature, usually caused by infection. Normal body temperature is around 37°C (give or take a degree, but this can vary from person to person). There may also be minor fluctuations over the course of the day and night.
+
+\nThe fever triggered by a viral or bacterial infection is caused by chemicals produced by the immune system, which reset the body’s thermostat to a higher level.
+
+Contrary to popular belief, the severity of fever isn’t necessarily related to the seriousness of the illness – for example, life-threatening meningitis might only cause a small temperature rise.
+
+Most cases of mild fever resolve by themselves within a couple of days. A mild fever (up to 39°C) can actually help the immune system to get rid of an infection. In children between the ages of 6 months and 6 years, fever can trigger convulsions. A fever of 42.4°C or higher, particularly in the elderly, can permanently damage the brain.
+
+\n\n
+<b>The symptoms of fever can include:\n\n</b>
+
+    feeling unwell\n
+    feeling hot and sweaty\n
+    shivering or shaking\n
+    chattering teeth\n
+    flushed face.\n\n
+
+Infection is usually the cause of fever
+\n\n
+The cause of fever is usually an infection of some kind. This could include:
+\n\n
+    diseases caused by viruses – such as colds, flu, COVID-19 or other upper respiratory tract infections
+    diseases caused by bacteria – such as tonsillitis, pneumonia or urinary tract infections
+    some chronic illnesses – such as rheumatoid arthritis and ulcerative colitis can cause fevers that last for longer periods
+    some tropical diseases – such as malaria, which can cause bouts of recurring fever or typhoid fever
+    heat stroke – which includes fever (without sweating) as one of its symptoms
+    drugs – some people may be susceptible to fever as a side effect of particular drugs.
+\n\n
+<b>Self-treatment suggestions for fever\n\n</b>
+
+Suggestions to treat fever include:\n
+
+    Take paracetamol or ibuprofen in appropriate doses to help bring your temperature down.
+    \nDrink plenty of fluids, particularly water.
+    \nAvoid alcohol, tea and coffee as these drinks can cause slight dehydration.
+    \nSponge exposed skin with tepid water. To boost the cooling effect of evaporation, you could try standing in front of a fan.
+    \nAvoid taking cold baths or showers. Skin reacts to the cold by constricting its blood vessels, which will trap body heat. The cold may also cause shivering, which can generate more heat.
+    \nMake sure you have plenty of rest, including bed rest.\n\n
+
+
+<b>You should always consult with your doctor in the following cases:\n\n</b>
+
+    You are still feverish after 3 days, despite home treatment.\n
+    Your temperature is over 40°C.\n
+    You are shivering and shaking involuntarily, or your teeth are chattering.\n
+    You seem to be getting sicker as time goes by.\n
+    You have unusual symptoms such as hallucinations, vomiting, neck stiffness, skin rash, rapid heart rate, chills or muscle spasms.\n
+    You feel confused and drowsy.\n
+    You have a severe headache that doesn’t respond to painkillers.\n
+    You have recently travelled overseas.\n
+\n\n
+    </string>
+    <string name="cpr">
+        <b>Procedure Details\n\n</b>
+<b>Before starting CPR, follow these steps:\n\n</b>
+    If you see someone collapse, loudly ask the person if they’re OK.\n
+    If they don’t respond, call 911 and ensure a safe scene. The 911 dispatcher can guide you through the steps to take until paramedics arrive.\n
+    Ask someone nearby to get an automated external defibrillator (AED).\n
+    Tilt the person’s head back while they’re lying on their back.\n
+    Lean in close to the person’s face and listen for 10 seconds to see if you hear them breathing.\n
+    Check to see if the person is breathing or to see if their chest is going up and down.\n
+    Check for a pulse by feeling the side of their neck.\n
+    Perform CPR if you don’t feel a pulse.\n\n
+<b>How to do CPR\n\n</b>
+Follow these CPR instructions to help someone older than an infant:\n
+    If the person isn’t breathing, put one of your hands over the other and place them in the middle of the person’s chest (right under their nipples). If you’re helping a child up to age 8, use one hand and place it right above the bottom of their breastbone.
+    Putting the force of your body weight behind it, push your hands down hard in the middle of the person’s chest. Use the heel of your hand, or the part just before your wrist. Keep your arms straight.
+    Keep pushing on the person’s chest (chest compressions) 100 to 120 times per minute, pushing down 2 inches (about the height or short side of a credit card) each time. Make sure you allow their chest to come all the way back up between compressions.
+    People who have CPR training can pause compressions to give the person two mouth-to-mouth rescue breaths for every 30 compressions (about 20 seconds or so).
+    Keep doing chest compressions and giving rescue breaths in a cycle until the person revives or more help arrives.
+\nPerform the rescue breath as follows:\n
+    Pinch the person’s nose closed while tilting their head back a little and their chin up.
+    Close your mouth over theirs and blow a normal-sized breath into it so their chest goes up. If the person’s chest doesn’t come up, check to see if there’s something in their mouth.
+    Give a total of two breaths and go back to doing compressions.
+While you’re doing CPR, someone should be bringing an AED to use to help with resuscitating the person.
+    </string>
+    <string name="Splinters">
+
+<b>What to Do
+
+To remove a splinter:\n\n</b>
+
+    Wash your hands, then the area around the splinter with soap and warm water.
+    \nSterilize tweezers and a needle by putting the ends of each in boiling water, then wipe them off with a clean cotton ball or alcohol pad.
+    \nIf the splinter is sticking through the skin, firmly grip the end with the tweezers. Pull slowly and gently at the same angle the splinter went in so it wont break.
+    \nIf the tip of the splinter isnt sticking out, gently scrape the skin away from the splinter with the needle until theres an end to grab with the tweezers.
+    \nAfter the splinter is removed, wash the area again and cover it with a bandage.
+
+
+    </string>
+    <string name="b">
+
+        <b>To treat a first-degree burn, Dr. Strowd and the AAD recommend the following tips:\n\n</b>
+
+    Cool the burn. Immediately immerse the burn in cool tap water or apply cold, wet compresses. Do this until the pain subsides.
+
+    \n\nApply petroleum jelly two to three times daily. Do not apply ointments, toothpaste or butter to the burn, as these may cause an infection. Do not apply topical antibiotics as these may irritate your skin or cause allergic reactions.
+
+    \n\nCover the burn with a nonstick, sterile bandage. If blisters form, let them heal on their own while keeping the area covered. Do not pop the blisters.
+
+    \n\nConsider taking over-the-counter pain medication. Acetaminophen or ibuprofen can help relieve the pain and reduce inflammation.
+
+    \n\nProtect the area from the sun. While the burn is healing, keep the area moist and covered with a non-stick bandage or gauze with paper tape. Once the burn heals, protect it by seeking shade, wearing protective clothing or applying a broad-spectrum, water-resistant sunscreen with an SPF of 30 or higher as this will help minimize scarring. Since sun exposure can cause additional skin redness or darkening, especially in people with darker skin tones, it’s important to keep the area covered and away from the sun.
+
+    </string>
+    <string name="ble">
+
+        <b>Minor bleeding\n\n</b>
+
+Small cuts and abrasions that are not bleeding excessively can be managed at home. First aid suggestions include:\n
+
+    \nClean the injured area with sterile gauze soaked in normal saline or clean water. Do not use cotton wool or any material that will fray or leave fluff in the wound.
+    \nApply an appropriate dressing such as a band aid or a non-adhesive dressing held in place with a hypoallergenic tape. This dressing must be changed regularly.
+    \nSee your doctor if you can’t remove the dirt yourself. A dirty wound carries a high risk of infection.
+    \nIf you have not had a booster vaccine against tetanus in the last five years, see your doctor.
+
+    </string>
+    <string name="s">
+
+        <b>Its likely to be a sprain if\n\n</b>
+
+    you have pain, tenderness or weakness – often around your ankle, foot, wrist, thumb, knee, leg or back
+    the injured area is swollen or bruised
+    \nyou cannot put weight on the injury or use it normally
+    \nyou have muscle spasms or cramping – where your muscles painfully tighten on their own
+
+
+<b>\n\nHow to treat sprains yourself\n\n</b>
+
+For the first couple of days, follow the 4 steps known as RICE therapy to help bring down swelling and support the injury:
+
+    \nRest – stop any exercise or activities and try not to put any weight on the injury.
+    \nIce – apply an ice pack (or a bag of frozen vegetables wrapped in a tea towel) to the injury for up to 20 minutes every 2 to 3 hours.
+    \nCompression – wrap a bandage around the injury to support it.
+    \nElevate – keep it raised on a pillow as much as possible.
+
+\nTo help prevent swelling, try to avoid heat (such as hot baths and heat packs), alcohol and massages for the first couple of days.
+
+\nWhen you can move the injured area without pain stopping you, try to keep moving it so the joint or muscle does not become stiff.
+
+
+    </string>
+    <string name="st">
+
+        <b>Treatment\n\n</b>
+
+\nFor immediate self-care of a muscle strain, try the R.I.C.E. approach — rest, ice, compression, elevation:
+
+    \n\nRest. Avoid activities that cause pain, swelling or discomfort. But dont avoid all physical activity.
+    \n\nIce. Even if youre seeking medical help, ice the area immediately. Use an ice pack or slush bath of ice and water for 15 to 20 minutes each time and repeat every two to three hours while youre awake for the first few days after the injury.
+    \n\nCompression. To help stop swelling, compress the area with an elastic bandage until the swelling stops. Dont wrap it too tightly or you may hinder circulation. Begin wrapping at the end farthest from your heart. Loosen the wrap if the pain increases, the area becomes numb or swelling is occurring below the wrapped area.
+    \n\nElevation. Elevate the injured area above the level of your heart, especially at night, which allows gravity to help reduce swelling.
+
+\n\nSome doctors recommend avoiding over-the-counter pain medications that can increase your risk of bleeding — such as aspirin, ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve) — during the first 48 hours after a muscle strain. Acetaminophen (Tylenol, others) can be helpful for pain relief during this time period.
+
+\n\nA physical therapist can help you to maximize stability and strength of the injured joint or limb. Your doctor may suggest that you immobilize the area with a brace or splint. For some injuries, such as a torn tendon, surgery may be considered.
+
+    </string>
+    <string name="a">
+
+        <b>How Do I Treat Animal Bites and Scratches?\n\n</b>
+
+    \nIf the bite or scratch wound is bleeding, apply pressure to the area with a clean bandage or towel until the bleeding stops. If available, use clean latex or rubber gloves to protect yourself and to prevent the wound from getting infected.
+    \nIf the wound is not bleeding heavily, clean it with soap and water, and hold it under running water for several minutes.
+    \nDry the wound, apply antibiotic ointment, and cover it with sterile gauze or a clean cloth.
+    \nCall your doctor if the bite or scratch broke or punctured the skin, even if the area is small. A child who is bitten by an animal may need antibiotics, a tetanus booster, or sometimes, a series of rabies shots. A bite or scratch on a childs face, hand, or foot is particularly at risk for infection and should be checked by your doctor as soon as possible.
+    \nIf your child was bitten or scratched by an unfamiliar or wild animal, note the location of the animal. Some animals may have to be captured, confined, and observed for rabies. But do not try to capture the animal yourself. Instead, call the animal control office or animal warden in your area.
+        \n\n<b>Get medical care for animal bites and scratches right away if</b>
+        \n\nThe wound is on the face, neck, hand, foot, or near a joint.
+        \nThe wound wont stop bleeding after 10 minutes of direct pressure.
+        \nThe wound appears to be deep, large, or severe.
+        \nThe attacking animal was stray or wild or behaving strangely.
+        \nThe bite or scratch has pus coming from it, or becomes red, hot, swollen, or increasingly painful.
+        \nYour child has a weak immune system or other medical condition that might make an infection more likely.
+        \nYour childs tetanus immunizations are not up to date.
+
+\nTeach your kids to stay away from wild animals, and not to tease or provoke any animals, even family pets. Animals should not be disturbed while they eat or sleep.
+
+    </string>
+    <string name="i">
+
+        <b>Treating insect bites and stings\n\n</b>
+
+<b>Most bites and stings are treated by:\n\n</b>
+
+    \nwashing the affected area with soap and water
+    \n\nplacing a cold compress (a flannel or cloth soaked in cold water) over the area to reduce swelling
+
+\n\nTry not to scratch the affected area to avoid infection. If you’re in pain or the area is swollen, take painkillers such as paracetamol or ibuprofen.
+
+\n\nIf you have a more serious reaction, your GP may prescribe other medication or refer you to an allergy clinic for immunotherapy (desensitisation).
+
+    </string>
+    <string name="f">
+
+    </string>
+    <string name="bro">
+
+
+    </string>
+    <string name="all">
+
+       <b> What is the best treatment for allergies?\n\n</b>
+
+\nNasal steroid sprays are generally the most effective medication for people with allergic rhinitis symptoms. Antihistamines block some of the effects of histamine and may offer additional benefits. Immunotherapy helps create a tolerance to allergens and can improve many of the symptoms related to inhalant allergy exposure.
+
+\n\nRemember, your body is unique. What over-the-counter or prescription medications work for one person may not work well for you.
+
+\n\nTalk to a healthcare provider. They can help recommend the best treatment for you.
+
+    </string>
+
+    <string name="aboutUs">
+        <b>version 0.1</b>
+
+    </string>
+    <string name="title_activity_infos">infos</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+</resources>
