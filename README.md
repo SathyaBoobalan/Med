@@ -45,6 +45,6 @@ Future Enhancements
 Contributions
 
 Contributions are welcome! You can:
-Report bugs or propose features via issues.
-Enhance Firebase integration and UI/UX elements via pull requests.
-Collaborate on new features, like AI-powered prescription recommendations.
+- Open issues to report bugs or propose features.
+- Suggest enhancements by creating a pull request.
+- Collaborate on improving AI models and blockchain integration.
