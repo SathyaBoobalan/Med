@@ -14,7 +14,7 @@ Installation
 
 Clone the repository:
 
-    bash
+bash
     
     git clone https://github.com/yourusername/medsync.git  
     cd medsync 
