@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
     
-    [git clone https://github.com/yourusername/medsync.git](https://github.com/SathyaBoobalan/MedSync)  
+    https://github.com/SathyaBoobalan/MedSync.git
     cd medsync 
 
 Install dependencies: Open Android Studio, import the project, and install required dependencies from  build.gradle
