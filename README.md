@@ -13,7 +13,9 @@ Features
 Installation
 
 Clone the repository:
+
     bash
+    
     git clone https://github.com/yourusername/medsync.git  
     cd medsync 
 
